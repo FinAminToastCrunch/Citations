@@ -1,0 +1,81 @@
+REFERENCES
+[1] Josh Achiam, Steven Adler, Sandhini Agarwal, Lama Ahmad, Ilge
+Akkaya, Florencia Leoni Aleman, Diogo Almeida, Janko Altenschmidt,
+Sam Altman, Shyamal Anadkat, et al. Gpt-4 technical report. arXiv
+preprint arXiv:2303.08774, 2023.
+[2] Jason Blocklove, Siddharth Garg, Ramesh Karri, and Hammond Pearce.
+Chip-chat: Challenges and opportunities in conversational hardware
+design. In 2023 ACM/IEEE 5th Workshop on Machine Learning for
+CAD (MLCAD), pages 1–6. IEEE, 2023.
+[3] Zhuolun He, Haoyuan Wu, Xinyun Zhang, Xufeng Yao, Su Zheng,
+Haisheng Zheng, and Bei Yu. Chateda: A large language model powered
+autonomous agent for eda, 2024.
+[4] Zhuolun He and Bei Yu. Large language models for eda: Future
+or mirage? In Proceedings of the 2024 International Symposium on
+Physical Design, ISPD ’24, page 65–66, New York, NY, USA, 2024.
+Association for Computing Machinery.
+[5] Geoffrey Hinton, Oriol Vinyals, and Jeff Dean. Distilling the knowledge
+in a neural network, 2015.
+[6] Edward J Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi
+Li, Shean Wang, Lu Wang, and Weizhu Chen. Lora: Low-rank
+adaptation of large language models. arXiv preprint arXiv:2106.09685,
+2021.
+[7] Diederik P Kingma and Jimmy Ba. Adam: A method for stochastic
+optimization. arXiv preprint arXiv:1412.6980, 2014.
+[8] Georgios Kokolakis, Athanasios Moschos, and Angelos D Keromytis.
+Harnessing the power of general-purpose llms in hardware trojan design.
+[9] Ehsan Latif, Luyang Fang, Ping Ma, and Xiaoming Zhai. Knowledge
+distillation of llm for automatic scoring of science education assess-
+ments, 2024.
+[10] Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir
+Karpukhin, Naman Goyal, Heinrich K ̈uttler, Mike Lewis, Wen-tau Yih,
+Tim Rockt ̈aschel, et al. Retrieval-augmented generation for knowledge-
+intensive nlp tasks. Advances in Neural Information Processing Systems,
+33:9459–9474, 2020.
+[11] Mengming Li, Wenji Fang, Qijun Zhang, and Zhiyao Xie. Specllm:
+Exploring generation and review of vlsi design specification with large
+language model, 2024.
+[12] Yixiao Li, Yifan Yu, Qingru Zhang, Chen Liang, Pengcheng He, Weizhu
+Chen, and Tuo Zhao. Losparse: Structured compression of large
+language models based on low-rank and sparse approximation. In
+International Conference on Machine Learning, pages 20336–20350.
+PMLR, 2023.
+[13] Mingjie Liu, Teodor-Dumitru Ene, Robert Kirby, Chris Cheng, Nathaniel
+Pinckney, Rongjian Liang, Jonah Alben, Himyanshu Anand, Sanmitra
+Banerjee, Ismet Bayraktaroglu, Bonita Bhaskaran, Bryan Catanzaro,
+Arjun Chaudhuri, Sharon Clay, Bill Dally, Laura Dang, Parikshit Desh-
+pande, Siddhanth Dhodhi, Sameer Halepete, Eric Hill, Jiashang Hu,
+Sumit Jain, Ankit Jindal, Brucek Khailany, George Kokai, Kishor Kunal,
+Xiaowei Li, Charley Lind, Hao Liu, Stuart Oberman, Sujeet Omar,
+Sreedhar Pratty, Jonathan Raiman, Ambar Sarkar, Zhengjiang Shao,
+Hanfei Sun, Pratik P Suthar, Varun Tej, Walker Turner, Kaizhe Xu, and
+Haoxing Ren. Chipnemo: Domain-adapted llms for chip design, 2024.
+[14] Mingjie Liu, Nathaniel Pinckney, Brucek Khailany, and Haoxing Ren.
+Invited paper: Verilogeval: Evaluating large language models for verilog
+code generation. In 2023 IEEE/ACM International Conference on
+Computer Aided Design (ICCAD), pages 1–8, 2023.
+[15] Victor Sanh, Lysandre Debut, Julien Chaumond, and Thomas Wolf.
+Distilbert, a distilled version of bert: smaller, faster, cheaper and lighter.
+arXiv preprint arXiv:1910.01108, 2019.
+[16] Siqi Sun, Yu Cheng, Zhe Gan, and Jingjing Liu. Patient knowledge dis-
+tillation for bert model compression. arXiv preprint arXiv:1908.09355,
+2019.
+[17] Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Alma-
+hairi, Yasmine Babaei, Nikolay Bashlykov, Soumya Batra, Prajjwal
+Bhargava, Shruti Bhosale, et al. Llama 2: Open foundation and fine-
+tuned chat models. arXiv preprint arXiv:2307.09288, 2023.
+[18] Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion
+Jones, Aidan N Gomez, Łukasz Kaiser, and Illia Polosukhin. Attention
+is all you need. Advances in neural information processing systems, 30,
+2017.
+[19] Wenhui Wang, Furu Wei, Li Dong, Hangbo Bao, Nan Yang, and
+Ming Zhou. Minilm: Deep self-attention distillation for task-agnostic
+compression of pre-trained transformers, 2020.
+[20] Yufei Wang, Haoliang Li, Lap-pui Chau, and Alex C. Kot. Embracing
+the dark knowledge: Domain generalization using regularized knowledge
+distillation. In Proceedings of the 29th ACM International Conference
+on Multimedia, MM ’21, page 2595–2604, New York, NY, USA, 2021.
+Association for Computing Machinery.
+[21] Xiaohan Xu, Ming Li, Chongyang Tao, Tao Shen, Reynold Cheng,
+Jinyang Li, Can Xu, Dacheng Tao, and Tianyi Zhou. A survey on
+knowledge distillation of large language models, 2024.
